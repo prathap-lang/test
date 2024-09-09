@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mastercard-client-encryption": "^1.10.3"
+  }
+}
